@@ -1,2 +1,2 @@
 # html-online-resume
-Bootcamp Capstone Project - Online Resume
+Bootcamp Capstone Project 1 - Online Resume
